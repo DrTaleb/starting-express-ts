@@ -1,0 +1,23 @@
+{
+  "name": "mebeauty",
+  "version": "1.0.0",
+  "description": "online webshops organization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrTaleb/mebeauty.git"
+  },
+  "author": "drtaleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrTaleb/mebeauty/issues"
+  },
+  "homepage": "https://github.com/DrTaleb/mebeauty#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
