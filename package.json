@@ -1,7 +1,7 @@
 {
-  "name": "mebeauty",
+  "name": "express-starting",
   "version": "1.0.0",
-  "description": "online webshops organization",
+  "description": "...",
   "main": "./src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrTaleb/mebeauty.git"
+    "url": "git+https://github.com/DrTaleb/starting-express-ts.git"
   },
   "author": "drtaleb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DrTaleb/mebeauty/issues"
+    "url": "https://github.com/DrTaleb/starting-express-ts/issues"
   },
-  "homepage": "https://github.com/DrTaleb/mebeauty#readme",
+  "homepage": "https://github.com/DrTaleb/starting-express-ts",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
